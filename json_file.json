@@ -1,0 +1,15 @@
+{
+    "empresa": "ASDFASDF",
+    "centro": "ASDFASDFASDF",
+    "org_compra": "QWERQWERWEQ",
+    "tit_req": "REQUISIÇÃO SAP-ME",
+    "cat_req": "NORMAL - ME",
+    "endereco": "ASDFASDF",
+    "cat_cont": "ASDFASDF",
+    "cod_cent_custo": "ASDFASDF",
+    "item_quant": {
+        "1000000002 - CANETA": 200,
+        "1000000003 - BORRACHA": 300,
+        "1000000010 - TESTE": 150
+    }
+}
